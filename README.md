@@ -1,3 +1,3 @@
 # E-commerce-QuickCart
 
-This is an updated version of QuickCart by Yogini.
+This is an updated version of QuickCart by Yogini
